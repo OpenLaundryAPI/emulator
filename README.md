@@ -1,0 +1,4 @@
+emulator
+========
+
+Washing machine emulator
